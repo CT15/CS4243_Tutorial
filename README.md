@@ -29,3 +29,8 @@ NUS CS4243 Computer Vision and Pattern Recognition (Tutorial)
   ```shell
   pip install -r requirements.txt
   ```
+  
+## Viewing *.ipynb
+
+If GitHub fails to load the *.ipynb file, try to open [nbviewer](https://nbviewer.jupyter.org/) 
+and paste the link to the notebook.
